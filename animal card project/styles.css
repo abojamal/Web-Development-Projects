@@ -1,0 +1,25 @@
+/* add your CSS here */
+#interesting-fact {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+}
+
+.animal-info {
+  border-style: solid;
+  padding: 1%;
+}
+
+#facts {
+  list-style-type: none;
+}
+#container {
+  border-style: solid;
+  padding: 1%;
+}
+img {
+  width: 300px;
+  height: 300px;
+  padding: 5px;
+}
